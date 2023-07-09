@@ -17,5 +17,6 @@ filename: research.md
 <h2>Railroad Barons and Ecnomic Development: How Transport Firms Directed North America's Economic Future</h2>
 <br>
 
+<p>
 <img src = "images/IMG-2160.jpg" align="center" width = "100%" style="margin: 75px 0px 0px 0px">
 </p>
