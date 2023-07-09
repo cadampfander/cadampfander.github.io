@@ -1,3 +1,9 @@
+---
+title: Main Page
+layout: template
+filename: index.md
+--- 
+
 <!--MAIN BODY -->
 <!-- Head Shot -->
 <img src = "IMG_0008.png" align = "left" height ="370px">
