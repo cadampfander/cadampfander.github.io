@@ -53,13 +53,9 @@ img {
 <!--NAV BAR -->
 <header>
 <nav>  
-{% for page in site.pages %}
-    <a href={{ page.filename }}>{{ page.title }}</a>
-{% endfor %}
-  
 <ul>
-  <li><a href="index"><font size="+2">C Adam Pfander</font></a></li>
-  <li><a href="research">Research</a></li>
+  <li><a href="{{ index.md }}"><font size="+2">C Adam Pfander</font></a></li>
+  <li><a href="{{ research.md }}">Research</a></li>
   <li>Teaching</li>
   <li><a href="CV_07_2023.pdf" style="color:white">CV</a></li>
 </ul>
