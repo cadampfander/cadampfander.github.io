@@ -53,6 +53,10 @@ img {
 <!--NAV BAR -->
 <header>
 <nav>  
+{% for page in site.pages %}
+    <a href={{ page.filename }}>{{ page.title }}</a>
+{% endfor %}
+  
 <ul>
   <li><font size="+2">C Adam Pfander</font></li>
   <li>Research</li>
