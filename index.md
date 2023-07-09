@@ -6,7 +6,7 @@ filename: index.md
 
 <!--MAIN BODY -->
 <!-- Head Shot -->
-<img src = "IMG_0008.png" align = "left" height ="370px">
+<img src = "images/IMG_0008.png" align = "left" height ="370px">
 <!-- Body -->
 <h2>Hello!</h2>
 <p>I am Ph.D. candidate in the Department of Economics at the University of Colorado, Boulder. I will be available at the 2024 ASSA meetings in San Antonio, TX.</p>
@@ -21,5 +21,5 @@ filename: index.md
 email: <a href="mailto:charles.pfander@colorado.edu">charles.pfander@colorado.edu</a> <br>
 github: <a href="https://github.com/cadampfander">https://github.com/cadampfander</a>
 <p>
-<img src = "IMG_2849.jpeg" align="center" width = "100%" style="margin: 75px 0px 0px 0px">
+<img src = "images/IMG_2849.jpeg" align="center" width = "100%" style="margin: 75px 0px 0px 0px">
 </p>
