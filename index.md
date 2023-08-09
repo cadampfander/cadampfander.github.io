@@ -9,7 +9,7 @@ filename: index.md
 <img src = "images/IMG_0008.png" align = "left" height ="370px">
 <!-- Body -->
 <h2>Hello!</h2>
-<p>I am Ph.D. candidate in the Department of Economics at the University of Colorado, Boulder. I will be available at the 2024 ASSA meetings in San Antonio, TX.</p>
+<p>I am Ph.D. candidate in the Department of Economics at the University of Colorado, Boulder. I will be (virtually) available at the 2024 ASSA meetings in San Antonio, TX.</p>
 <br>
 <!--Research Intersets -->
 <h2>Research Interests</h2>
