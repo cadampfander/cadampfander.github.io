@@ -12,12 +12,10 @@ filename: research.md
 <br>
 
 <h2>Establishment Mobility Within Firm: Exploring the Composition and Consequences of a Novel Channel of Worker Mobility</h2>
-<br>
 <i>with Jeronimo Carballo and Richard Mansfield</i>
 <br>
 
 <h2>The Workforce Consequences of the Trump Trade War: A Matched Employer-Employee Perspective</h2>
-<br>
 <i>with Jeronimo Carballo and Richard Mansfield</i>
 <br>
 
