@@ -11,7 +11,7 @@ filename: teaching.md
 
 <p>Below I link my teaching evaluations for my two semesters of teaching experience:</p>
 
-<p><a href="https://cadampfander.github.io/Faculty_Evaluations_Pfander.pdf"><font color = "blue">Faculty Evaluations</font></a></p>
+<p><a href="https://cadampfander.github.io/Faculty_Evaluations_Pfander.pdf"><font color = rgba(0,38,167,1)>Faculty Evaluations</font></a></p>
 
 <p>
 <img src = "images/IMG-1562.jpg" align="center" width = "100%" style="margin: 75px 0px 0px 0px">
