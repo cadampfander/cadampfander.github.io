@@ -21,7 +21,7 @@ filename: research.md
 <br>
 <br>
 
-<h2>Railroad Barons and Ecnomic Development: How Transport Firms Directed North America's Economic Future</h2>
+<h2>Railroad Barons and Economic Development: How Transport Firms Directed North America's Economic Future</h2>
 <br>
 
 <p>
