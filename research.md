@@ -20,11 +20,6 @@ filename: research.md
 <p>This paper seeks to understand how freight market concentration changes the impact of domestic market access improvements throughout the late 19th and early 20th Century. I modify a multi-sector Ricardian trade model to allow for endogenous transport costs set by a profit-maximizing freight monopolist. This framework yields a modified market access term that accounts not only for exogenous bilateral frictions, but endogenous bilateral markups. Reduced-form analysis reveals that omitting endogenous freight prices from the calculation of market access reduces the estimated impact by as much as half. I further document marked convexity in this treatment effect by initial output: smaller, remote counties stand the most to gain from market access improvements, which also means these counties are the most at-risk from the exercise of freight market power. I show that, over time, the most-affected counties move west along the American Frontier.</p>
 <br>
 
-
-<h2>The Workforce Consequences of the Trump Trade War: A Matched Employer-Employee Perspective</h2>
-<i>with Jeronimo Carballo and Richard Mansfield</i>
-<br>
-
 <p>
 <img src = "images/IMG-2160.jpg" align="center" width = "100%" style="margin: 75px 0px 0px 0px">
 </p>
