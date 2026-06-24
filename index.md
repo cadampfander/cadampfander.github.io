@@ -18,7 +18,7 @@ filename: index.md
 <!--Contact Info -->
 <br>
 <h2>Contact</h2>
-email: <a href="mailto:charles.pfander@colorado.edu">charles.pfander@colorado.edu</a> <br>
+email: <a href="mailto:cadampfander@gmail.com">cadampfander@gmail.com</a> <br>
 github: <a href="https://github.com/cadampfander">https://github.com/cadampfander</a>
 <p>
 <img src = "images/IMG_2849.jpeg" align="center" width = "100%" style="margin: 75px 0px 0px 0px">
